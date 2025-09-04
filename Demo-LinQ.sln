@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-01-Intro", "Demo-01-Intro\Demo-01-Intro.csproj", "{79A6D2AD-3CE6-47B9-B3B2-0F8302B30E4C}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-05-SingleFirstLast", "Demo-05-SingleFirstLast\Demo-05-SingleFirstLast.csproj", "{0770B67F-B1BE-44EB-8F67-CDB90E9B0702}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-06-Order", "Demo-06-Order\Demo-06-Order.csproj", "{69F9491B-CE07-4942-809F-1EF5021566F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-07-Aggregations", "Demo-07-Aggregations\Demo-07-Aggregations.csproj", "{9BD3E79A-211B-4DA4-B8E0-9AAF47F467F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{69F9491B-CE07-4942-809F-1EF5021566F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F9491B-CE07-4942-809F-1EF5021566F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F9491B-CE07-4942-809F-1EF5021566F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD3E79A-211B-4DA4-B8E0-9AAF47F467F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD3E79A-211B-4DA4-B8E0-9AAF47F467F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD3E79A-211B-4DA4-B8E0-9AAF47F467F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD3E79A-211B-4DA4-B8E0-9AAF47F467F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
